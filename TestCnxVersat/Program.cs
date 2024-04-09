@@ -52,7 +52,7 @@ class Program
     }
 
     /// <summary>
-    ///  Optiene el sha256 para el password de versat
+    ///  Optiene el SHA256 para el password de versat
     /// </summary>
     static string HashPassword(string psw) 
     {
